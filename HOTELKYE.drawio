@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" modified="2024-03-11T13:48:43.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8LIU3PIghUDSk-rz-vcr" version="24.0.4" type="device">
+  <diagram name="Page-1" id="oVfROOS_uBpaD92c8QMl">
+    <mxGraphModel dx="1826" dy="1193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-3" target="wR2-ShxSbqb3PpK6QIa7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-32" y="200.26717557251914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-4" target="W0f75xJx3Z04KOWxnpry-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wR2-ShxSbqb3PpK6QIa7-4" target="6vzVQAkETG12ctnCri_J-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wR2-ShxSbqb3PpK6QIa7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="528" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-4" value="Output-Menu with 4 Options&lt;br&gt;1. Hotel Booking&lt;br&gt;2. Rooms Info&lt;br&gt;3. Check availability&lt;br&gt;4. Checkout" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="93" y="81" width="154" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-8" target="wR2-ShxSbqb3PpK6QIa7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-8" value="Option 1 is chosen" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-101" y="168" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-9" target="wR2-ShxSbqb3PpK6QIa7-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-9" value="Show list of available rooms for customer to pick from. Once picked move to next section" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-123.5" y="288" width="125" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="wR2-ShxSbqb3PpK6QIa7-11" target="W0f75xJx3Z04KOWxnpry-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-61" y="555.2941176470588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wR2-ShxSbqb3PpK6QIa7-11" value="Output Information about the room, Using the additional details&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="W0f75xJx3Z04KOWxnpry-2" target="W0f75xJx3Z04KOWxnpry-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-2" value="Option 2 is Chosen" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="128" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W0f75xJx3Z04KOWxnpry-4" edge="1" target="6vzVQAkETG12ctnCri_J-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="168" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-4" value="User inputs what room they wish to check" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="108" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="W0f75xJx3Z04KOWxnpry-9" target="W0f75xJx3Z04KOWxnpry-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-61" y="643.5294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-9" value="Confirmation that customer wishes to book room" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="525.2941176470588" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="W0f75xJx3Z04KOWxnpry-11" target="W0f75xJx3Z04KOWxnpry-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-11" value="Input users forename, surname, billing information, period of stay and what room they are in" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="621.9994117647059" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W0f75xJx3Z04KOWxnpry-12" value="Change room&#39;s value to 1 to show it&#39;s taken" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-123.5" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-2" value="Program outputs details on room such as if it has a TV and how many beds it has, if not existing then error and ask for another room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="402" width="152" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-4" target="6vzVQAkETG12ctnCri_J-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-4" value="Option 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="187" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-6" target="6vzVQAkETG12ctnCri_J-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-6" value="User inputs room to check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-8" target="6vzVQAkETG12ctnCri_J-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-8" target="6vzVQAkETG12ctnCri_J-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-8" value="Is the room existing and is it taken" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="389" width="101" height="93.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-10" value="The room is taken and show it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-11" value="The room is not taken&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-16" value="option 4" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="187" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vzVQAkETG12ctnCri_J-19" target="6vzVQAkETG12ctnCri_J-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-19" value="Check if the name and room number are being used" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vzVQAkETG12ctnCri_J-20" value="Change rooms value to 0 to show it&#39;s avaialble" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="405.75" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
