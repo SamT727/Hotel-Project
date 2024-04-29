@@ -2,7 +2,7 @@
 
 This project is used for the intended purpose of being able to manage a hotels rooms. Letting customers book out rooms for a limited period of time, Being able to check out of rooms as well as finding out information of the room such as what accessories it comes with.
 This code can be manipulated easily and understood thanks to it's comments that explain the purpose of code. along with easily being able to add and change details of rooms to be able to adapt this to any hotel setting, 
-:trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: 
+:+1:
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to run the program.
